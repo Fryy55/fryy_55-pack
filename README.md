@@ -1,4 +1,4 @@
-# Fryy_55-pack
+# Fryy_55 pack
 
 yes i'm versioning a texture pack
 
