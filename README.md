@@ -12,7 +12,7 @@ yes i'm versioning a texture pack
 - Transparent Background by Naxrin
 - Some form of transparent lists (like in QOLMod by TheSillyDoggo)
 
-### Supported mods
+### Exclusively supported mods
 - All the recommended mods
 - Improved Link Controls by Alpha
 - BetterInfo by Cvoltion
