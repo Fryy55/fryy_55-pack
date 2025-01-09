@@ -24,3 +24,9 @@ yes i'm versioning a texture pack
 - GDShare by HJfod
 - BetterAchievements by LimeGradient
 - _Some_ Geode menu stuff
+
+# License
+
+This project is distributed under the **MIT license**.
+
+See `LICENSE` for permission, conditions and limitations.
