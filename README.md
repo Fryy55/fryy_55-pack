@@ -29,4 +29,4 @@ yes i'm versioning a texture pack
 
 This project is distributed under the **MIT license**.
 
-See `LICENSE` for permission, conditions and limitations.
+See `LICENSE` for permissions, conditions and limitations.
