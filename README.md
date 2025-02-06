@@ -16,6 +16,7 @@ yes i'm versioning a texture pack
 ### Exclusively supported mods
 - All the recommended mods
 - Improved Link Controls by Alpha
+- Improved Transform Controls by RaZoom
 - BetterInfo by Cvoltion
 - Level Pinning by Deaen
 - Jukebox by Fleym & Flafy
