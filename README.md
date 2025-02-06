@@ -7,6 +7,7 @@ yes i'm versioning a texture pack
 ### Recommended mods:
 - Happy Textures by Alpha
 - Cleaner Menu by DevCmb
+- BetterEdit by HJfod
 - Menu Shaders by Mat
 - Progress Bar Color by Naxrin
 - Transparent Background by Naxrin
@@ -20,7 +21,6 @@ yes i'm versioning a texture pack
 - Jukebox by Fleym & Flafy
 - Texture Loader by Geode
 - Backups by HJfod
-- BetterEdit by HJfod
 - GDShare by HJfod
 - BetterAchievements by LimeGradient
 - _Some_ Geode menu stuff
